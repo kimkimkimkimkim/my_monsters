@@ -619,9 +619,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 786d4942-67b1-4c69-a4dd-a22a96070bbc
+  cloudProjectId: c40fe36b-1b51-4990-b47d-6b0bcc9c8962
   projectName: MyMonsterts
-  organizationId: ii-aatj-ntocl
+  organizationId: s-makino
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
